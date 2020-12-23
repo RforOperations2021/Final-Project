@@ -4,7 +4,7 @@ Due: 3/19
 
 To bring the entire course together students will create an App with an interactive map as the central focus.
 
-Directions Incluide:
+Requirements:
 * One leaflet map
   * The app should have at least two different types of layers 
     * points/markers, lines, heatmap, polygons etc.
